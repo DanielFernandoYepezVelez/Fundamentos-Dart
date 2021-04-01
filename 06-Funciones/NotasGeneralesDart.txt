@@ -1,0 +1,15 @@
+Notas Importantes Del Bloque De FUNCIONES =>
+
+print(Object object) -> void
+Es Una Función Que Puede Recibir Cualquier Cosa Y No Retorna Nada.
+
+(Object object) = Cualquier Cosa.
+----------------------------------
+
+Lo Importante De Que Una Función Retorne Algo Es Que Se Puede
+Almacenar Posteriormente En Variable, Lo Que Permite Una Mejor
+Visibilidad Del Codigo.
+
+String saludo = saludar();
+----------------------------------
+
