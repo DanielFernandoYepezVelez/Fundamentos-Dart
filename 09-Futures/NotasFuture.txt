@@ -1,0 +1,10 @@
+FUTURES =>
+Son Tareas Asincronas Que Se Hacen En Un Hilo Independiente Al
+Hilo Principal Que Estamos Ejecutando Y Cuando Se Resuelve 
+Podemos Obtenerlo Y Seguir Ejecutando Otras Partes Del Programa.
+
+Son Imprescindibles Para Realizar Tareas Asincronas Y Se 
+Manejan Exactamente Igual Que Las Promesas Y/O async - await.
+
+Tarea Asincrona Que Se Realiza A Destiempo Que Nos Va A Notificar
+Cuando Se Resuelva Dicha Tarea O Cuando Suceda Algún Error.

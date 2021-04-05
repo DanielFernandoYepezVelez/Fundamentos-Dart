@@ -1,0 +1,6 @@
+BLOG =>
+https://medium.com/flutter-community/dart-what-are-mixins-3a72344011f3
+
+Clases Abstractas <=> Categorias.
+Mixins <=> Acciones Especificas, Asignadas A Quién Las Pueda Ejecutar De Forma Lógica.
+Clases Finales <=> Heredan De Las Categorias Y Se Les Aplican Los Mixins De Forma Lógica.
