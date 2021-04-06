@@ -1,0 +1,3 @@
+Los Constructores De Una Clase No
+Pueden Ser Asincronos, Es Decir,
+No Pueden Trabajar Con Async-Await.
