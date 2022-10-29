@@ -1,0 +1,58 @@
+===== HISTORIA DE DART =====
+
+* DESARROLLADO POR GOOGLE
+Presentando por Google en el 2011 como una alternativa
+más moderna a JavaScript.
+
+* INFLUENCIA
+Toma las bases modernas de lenguajes como: 
+Java, C#, Ruby, TypeScript.
+
+
+===== COMO FUNCIONA DART =====
+
+* QUE ES UNA MAQUINA VIRTUAL (VM)
+Una máquina virtual (VIRTUAL MACHINE) es un software que 
+se instala en el Sistema Operativo que permite transformar
+el código de un lenguaje de programación, al código maquina 
+que el sistema operativo receptor pueda captar o entender.
+Aquí, llegamos al concepto de MULTIPLATAFORMA.
+
+En el caso de dart, su máquina virtual se llama: 
+"Dart Virtual Machine" y permite ejecutar el código de 
+Dart en cualquier sistema operativo que tenga una
+implementación de la máquina virtual.
+
+Esta máquina virtual la podemos encontrar en 
+Sistemas Operativos Como:
+- LINUX.
+- MAC OS.
+- WINDOWS.
+
+* DART VM (VIRTUAL MACHINE)
+Es la maquina virtual donde se ejecuta el código
+necesario para el desarrollo.
+
+* MULTIPLATAFORMA
+Aplicaciones Web gracias al convertidor dart2js.
+Aplicaciones Móviles Nativas gracias a Flutter y dart2native.
+
+* MÁS DE DART
+=== CONCEPTOS IMPORTANTES EN LOS LENGUAJES DE PROGRAMACIÓN MODERNOS ====
+ - Just-in-Time (Justo A Tiempo) => Agregar recursos de desarrollo que facilitan la ejecución y debugueo (Hot Reload).
+ - Ahead-of-Time (Antes De Tiempo) => Optimiza las aplicaciones y remueve recursos innecesarios, creando compilaciones más rapidas.
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
