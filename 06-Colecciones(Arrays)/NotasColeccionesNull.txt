@@ -1,0 +1,22 @@
+Las Colecciones Es La Forma En Que Agrupamos Datos En Una Variable
+
+ESTO SE PUEDE PRESENTAR, CUANDO PEDIMOS DATOS A UNA API
+ESTO ES MUY IMPORTANTE PARA VALIDAR SI ME LLEGA UN DATO NULO DE UNA API QUE ME RETORNE UN MAPA
+
+Lidiando Con Llaves - Valores Nulos
+Por Defecto El Tipo De Dato De Los Map Es Dynamic, es decir, "Map<dinamyc, dynamic> identificador"
+
+Map<String, dynamic> persona = {
+  "nombre": "Daniel Fernando",
+  "apellidos": "Yepez Vélez",
+  "edad": 29,
+  "pais": "Colombia",
+  "altura": 1.70,
+  // "idioma": "Spanish"
+};
+
+if (persona['idioma'] == null) {
+    print("La Persona No Tiene Idioma");
+} else {
+    print("La Persona Habla ${persona['idioma']}");
+}
