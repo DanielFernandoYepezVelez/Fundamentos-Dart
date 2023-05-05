@@ -5,8 +5,6 @@ class Booleano {
 
     if (activado) {
       print('El Motor Esta Funcionando Correctamente.');
-    } else {
-      print('El Motor Esta Apagado.');
     }
 
     if (!desactivado) {
